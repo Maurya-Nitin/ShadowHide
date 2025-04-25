@@ -16,7 +16,7 @@
   - [🔹 Download (Recommended)](#-download-EXE-recommended)
   - [🔹 Run From Source](#-run-from-source)
   - [🔹 Requirements](#-requirements)
-- [🛡️ Security & Trust](#-%EF%B8%8F-security--trust)
+- [🛡️ Security & Trust](#%EF%B8%8F-security--trust)
 - [🧬 How It Works](#-how-it-works)
 - [⚙️ Configuration](#-configuration)
 - [🤝 Contributing](#-contributing)

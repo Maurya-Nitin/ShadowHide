@@ -13,7 +13,7 @@
 - [⚠️ Limitations](#️-limitations)
 - [📸 Screenshots](#-screenshots)
 - [💻 Installation](#-installation)
-  - [🔹 Download (Recommended)](#-download-recommended)
+  - [🔹 Download (Recommended)](#-download-EXE-recommended)
   - [🔹 Run From Source](#-run-from-source)
   - [🔹 Requirements](#-requirements)
 - [🛡️ Security & Trust](#-security-&-trust)
@@ -61,7 +61,7 @@
 ## 💻 Installation
 
 ### 🔹 Download EXE (Recommended)
-Grab the latest version from the [Releases](https://github.com/Maurya-Nitin/ShadowHide/releases) page.
+Grab the latest version [ZIP](https://github.com/Maurya-Nitin/ShadowHide/releases/download/v.1.0.0/ShadowHide.zip) visit [Releases](https://github.com/Maurya-Nitin/ShadowHide/releases) page for more info.
 
 > **Note:** If your antivirus blocks the file, turn off your antivirus temporarily. Please refer to the [🛡️ Security & Trust](#-security-&-trust) section. ShadowHide is digitally self-signed and verified clean by major antivirus vendors. You can safely proceed after reviewing the details.
 

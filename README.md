@@ -92,7 +92,7 @@ ShadowHide is signed using a personal code-signing certificate. While most antiv
 - Embedded Python interpreter (PyInstaller)
 - Use of `win32gui` and window manipulation functions
 
-✅ ShadowHide has been thoroughly scanned and verified by leading antivirus vendors, including **Microsoft**, **Bitdefender**, **Kaspersky**, **Avast**, and **Norton**. You can review the detailed scan results on [VirusTotal](https://www.virustotal.com/gui/file/a9d3fc9123438d00ad3b2285c34c3e624fa5eb6e8407e60edb95c78cd38d97e4). Out of 72 vendors, only one flagged it as malware, which has since been confirmed as a **false positive**. Rest assured, ShadowHide is safe and secure to use.
+✅ ShadowHide has been thoroughly scanned and verified by leading antivirus vendors, including **Microsoft**, **Bitdefender**, **Kaspersky**, **Avast**, and **Norton**. You can review the detailed scan results on [VirusTotal](https://www.virustotal.com/gui/file/a9d3fc9123438d00ad3b2285c34c3e624fa5eb6e8407e60edb95c78cd38d97e4). Out of 72 vendors, only one flagged it as malware, which has since been confirmed as a **false positive** and updated version shows no worries now 0/72. Rest assured, ShadowHide is safe and secure to use.
 
 > If flagged, please report a false positive with your antivirus vendor.
 ---

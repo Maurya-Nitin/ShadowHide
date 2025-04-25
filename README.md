@@ -160,7 +160,7 @@ Use it, change it, share it — but don’t blame me if something goes wrong �
 ## 👤 Author
 
 Made with grit and joy by **Nitin** ✨  
-[GitHub](https://github.com/yourusername) ·
+[GitHub](https://github.com/Maurya-Nitin) ·
 
 ---
 

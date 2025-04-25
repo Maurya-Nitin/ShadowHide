@@ -16,7 +16,7 @@
   - [🔹 Download (Recommended)](#-download-recommended)
   - [🔹 Run From Source](#-run-from-source)
   - [🔹 Requirements](#-requirements)
-- [🛡️ Security & Trust](#-security--trust)
+- [🛡️ Security & Trust](#-security-&-trust)
 - [🧬 How It Works](#-how-it-works)
 - [⚙️ Configuration](#-configuration)
 - [🤝 Contributing](#-contributing)
@@ -61,9 +61,9 @@
 ## 💻 Installation
 
 ### 🔹 Download EXE (Recommended)
-Grab the latest version from the [Releases](https://github.com/yourusername/ShadowHide/releases) page.
+Grab the latest version from the [Releases](https://github.com/Maurya-Nitin/ShadowHide/releases) page.
 
-> **Note:** If your antivirus blocks the file, turn off your antivirus temporarily. Please refer to the [🛡️ Security & Trust](#-security--trust) section. ShadowHide is digitally self-signed and verified clean by major antivirus vendors. You can safely proceed after reviewing the details.
+> **Note:** If your antivirus blocks the file, turn off your antivirus temporarily. Please refer to the [🛡️ Security & Trust](#-security-&-trust) section. ShadowHide is digitally self-signed and verified clean by major antivirus vendors. You can safely proceed after reviewing the details.
 
 ### 🔹 Run From Source
 ```bash
@@ -123,14 +123,14 @@ Edit `shortcut.json` to set your preferred hotkey:
 ## 🤝 Contributing
 
 Pull requests, feedback, and forks are welcome!
-- Report issues via [GitHub Issues](https://github.com/yourusername/ShadowHide/issues)
+- Report issues via [GitHub Issues](https://github.com/Maurya-Nitin/ShadowHide/issues)
 - Feature requests and security reports are welcome
 
 ---
 
 ## 📜 License
 
-MIT License. See [LICENSE](LICENSE) for full details.
+MIT License. See [LICENSE](LICENSE.txt) for full details.
 
 ---
 

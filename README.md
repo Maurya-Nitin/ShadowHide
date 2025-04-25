@@ -132,6 +132,29 @@ Pull requests, feedback, and forks are welcome!
 
 MIT License. See [LICENSE](LICENSE.txt) for full details.
 
+**📜 License Summary (Human-readable)**
+
+**What this license lets you do:**
+
+* **Use it freely:** You can use this software for any purpose, even for commercial projects.
+* **Make changes:** You can modify the software to fit your needs.
+* **Share it:** You can distribute copies of the original or your modified version.
+* **Keep it private:** You don't have to share any changes you make if you don't want to.
+
+**What you need to keep in mind:**
+
+* **Keep the original copyright notice**
+* **No guarantees**
+* **No liability for misuse**
+
+**Giving credit (Good practice):**
+
+While not legally required, it's appreciated if you credit the original author (Nitin) when using this in your own work — especially commercial projects.
+
+**In simple terms:**
+
+Use it, change it, share it — but don’t blame me if something goes wrong 🙂
+
 ---
 
 ## 👤 Author

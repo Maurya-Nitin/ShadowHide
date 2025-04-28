@@ -68,7 +68,7 @@ Grab the latest version [ZIP](https://github.com/Maurya-Nitin/ShadowHide/release
 ### 🔹 Run From Source
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ShadowHide.git
+git clone https://github.com/Maurya-Nitin/ShadowHide.git
 cd ShadowHide
 
 # Install dependencies
